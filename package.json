@@ -1,0 +1,21 @@
+{
+  "name": "rag_ts",
+  "version": "1.0.0",
+  "description": "Implementation of a simple RAG system in TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmat123/Rag_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bmat123/Rag_ts/issues"
+  },
+  "homepage": "https://github.com/Bmat123/Rag_ts#readme"
+}
