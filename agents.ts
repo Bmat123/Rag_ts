@@ -5,7 +5,7 @@ const langbase = new Langbase({
     apiKey :ProcessingInstruction.env.LANGBASE_API_KEY,
 });
 
-export async function runMEmoryAgent(query:string) {
+export async function runMemoryAgent(query:string) {
     const chunks = await langbase.memories.retrieve ({
         query, 
         topK: 3, // top 3 only as we dont need more chunks 
